@@ -6,4 +6,3 @@ changes in master
 2nd change in branch1
 changes by other
 3rd change in branch1 with change by other
-4th change in branch1
